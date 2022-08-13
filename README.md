@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ingrid Maciel.
+- 👋 Hi, I’m Ingrid Maciel Cotrick.
 - 👀 I’m interested in science, nature, programming and personal development.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on solutions that improve people's live and, at the same time, bring about social and environmental development.
