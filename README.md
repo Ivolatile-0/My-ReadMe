@@ -1,4 +1,5 @@
 ## Apresentação
+
 💜 Olá, meu nome é Ingrid!
 
 Sou uma estudante de Análise e Desenvolvimento de Sistemas na FATEC SO -  Faculdade de Tecnologia de Sorocaba
@@ -8,6 +9,7 @@ Sou uma estudante de Análise e Desenvolvimento de Sistemas na FATEC SO -  Facul
 💬 Para entrar em contato comigo, use o endereço de email: ingridmaciel5715@gmail.com ou o LinkedIn: https://www.linkedin.com/in/ingridmcotrick/.
 
 ------------------------------------------------------------------------------------------------------
+## Presentation
 
 💜 Hello, my name is Ingrid!
 
