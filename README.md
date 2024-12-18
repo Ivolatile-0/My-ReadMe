@@ -23,7 +23,6 @@ I'm a Systems Analysis and Development student at FATEC SO - Sorocaba Technology
 # 🚀 Skills
 
 ### Linguagens de Programação (Programming Languages)
-
 <code><img height="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></code>
 <code><img height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
 <code><img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></code>
